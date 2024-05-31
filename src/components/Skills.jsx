@@ -122,7 +122,7 @@ const Skills = () => {
                             ]}
                         />
                         <Service
-                            num="4"
+                            num="3"
                             title="Backend Development"
                             desc="My backend expertise spans Node.js and Spring Boot, coupled with MongoDB and PostgreSQL for data management. I orchestrate deployments with Docker and Kubernetes on AWS. Rust handles performance tasks, while Firebase enables real-time app development. Stripe integrates seamless payment processing."
                             data={[
